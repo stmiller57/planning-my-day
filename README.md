@@ -17,3 +17,6 @@ I also wasn't able to take the time data and change the colors of the event bloc
 
 ## Link to application
 https://stmiller57.github.io/planning-my-day/
+
+## Screenshot
+![ScreenShot](https://raw.githubusercontent.com/stmiller57/planning-my-day/master/Assets/Screen%20Shot%202020-03-29%20at%205.16.25%20PM.png)
