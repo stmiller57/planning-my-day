@@ -20,7 +20,8 @@ for (i = 0; i < workHour.length; i++) {
     time.html("<h4>" + workHour[i] + "</h4>");
     time.innerhtml;
     event.attr("class", "col-sm-8 eventHead");
-    event.html("<p></p>");
+    event.html("<textarea></textarea>");
     save.attr("class", "col-sm-2 saveBtn");
+    save.html("<input type=button value=save>");
     newRow.attr("class", "row hour");
 };

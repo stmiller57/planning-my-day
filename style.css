@@ -6,11 +6,14 @@ body {
 
 textarea{
   background: transparent;
-  border: none;
+  border: green;
   resize: none;
   color: #000000;
-  border-left: 1px solid black;
   padding: 10px;
+  width: 730px;
+  height: 70px;
+  max-width: 735px;
+  max-height: 72px;
 }
 
 .jumbotron {
@@ -81,6 +84,6 @@ textarea{
 .eventHead {
   text-align: center;
   border: 1px solid black;
-  background-color: gray;
-  color: white;
+  background-color: white;
+  color: green;
 }
