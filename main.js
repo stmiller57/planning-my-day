@@ -1,7 +1,5 @@
-$(document).ready(function () {
-    var today = $("#currentDay");
-    currentDay();
-    function currentDay() {
-        $(today).text(moment().format("MMMM Do, YYYY"));
-    }
-});
+var currentTime = function () {
+    document.getElementById("currentDay")
+        .innerHTML = moment().format('MMMM Do YYYY, h:mm:ss a');
+}
+setInterval(currentTime, 1000);
